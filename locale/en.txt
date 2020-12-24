@@ -1,0 +1,36 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = SCIL Virtual Tour
+
+## Media
+
+### Title
+album_4A02F858_45A3_E322_41CC_6057854089F1.label = Photo Album Capture
+panorama_D369C058_D9CA_3151_41E0_CDCE4C6ED689.label = IMG_20201118_122819_00_merged(1)
+panorama_D369E9B9_D9C9_D3D2_41CB_8AF1D65A8CD8.label = IMG_20201118_122142_00_merged(1)
+panorama_D36A1755_D9C9_FF52_41B8_44C2D230B4A4.label = IMG_20201118_122402_00_merged(1)
+panorama_D36A25A3_D9CA_73F7_41E4_7B75F9EC2D43.label = IMG_20201118_123336_00_merged(1)
+panorama_D36A333F_D9CA_50CE_41E6_831109C6763B.label = IMG_20201118_124116_00_merged(1)
+panorama_D36A58D0_D9CA_5152_41E1_761C4DDD6369.label = IMG_20201118_123201_00_merged(1)
+panorama_D36A7CA3_D9CA_31F7_41EB_34CB556B45FF.label = IMG_20201118_123044_00_merged(1)
+panorama_F2715D63_FE62_1626_41D8_6B0EECEF6321.label = IMG_20201125_125231_00_merged
+panorama_F276A641_FE62_1262_41E1_81C7C074D35C.label = IMG_20201125_130551_00_merged
+panorama_F276D9AF_FE62_3E3E_41DE_F3B2296F90A0.label = IMG_20201125_125539_00_merged
+video_10F165BE_1C69_411F_41B4_F28BA47A3F34.label = ABB Sequencing System credit
+video_17C298BA_1C69_4F27_41B2_A6D56A1B571C.label = AR picking
+video_17CC8E22_1C69_4327_41B7_81280A715A8E.label = Collaborative Robot credit
+video_17CCCB57_1C69_416D_41AB_946DF28B982B.label = Cart transporter credit
+video_17CD40E9_1C68_BF25_418D_AF3CF3FE68F4.label = Driverless forklift credit
+video_17CD8697_1C68_C3ED_41B2_371457070335.label = Vertical Lift credit
+video_17CD93ED_1C68_C13D_41B0_E7722A028E9B.label = Finished AGV credit
+video_235DBDAD_3748_3E58_41B7_A90B69526B04.label = Completed ABB Sequencing System
+video_250CB317_3748_CA45_41CB_1D78B2842206.label = Vertical Storage Solutions
+video_25AC33D3_3738_49DD_41CA_EDCF806799F7.label = Cobot
+video_25C11E93_3748_5A5D_41CA_19B517662AED.label = Automatic Pallet Movers
+video_25EC1234_3748_4A5B_41C6_08E518776608.label = Completed goods to robot Video
+video_26FF91AF_3739_C645_4189_6C49234BF04D.label = Cart transporter
