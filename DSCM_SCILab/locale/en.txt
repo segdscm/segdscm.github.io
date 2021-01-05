@@ -28,3 +28,4 @@ video_B10C5762_A899_B852_41D3_C838FA6242FE.label = Driverless Forklift
 video_B1155B09_A898_A9DE_41D7_B3F4C7A549FD.label = Completed goods to robot Video
 video_BEE2EB8E_A898_68D2_41E2_B376E42AE922.label = AR Picking
 video_BF812F27_A898_A9D2_41A4_5CBCD0501867.label = Cobots
+video_DEBC0C2D_CD6B_22BF_41D8_0018EC0F6674.label = Automatic Pallet movers 2
